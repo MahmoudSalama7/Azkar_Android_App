@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bbb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/islambg"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/b"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/aref_ruqaa"
+            android:includeFontPadding="false"
+            android:text="أذكار الصباح و المساء"
+            android:textColor="@color/white"
+            android:textColorLink="@color/white"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/aref_ruqaa"
+            android:text="تسبيح"
+            android:textColor="@color/white"
+            android:textColorLink="@color/white"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/but4"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/aref_ruqaa"
+            android:text="مواقيت الصلاة "
+            android:textColor="@color/white"
+            android:textColorLink="@color/white"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/butttonn"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/aref_ruqaa"
+            android:text="سنن الوضوء"
+            android:textColor="@color/white"
+            android:textColorLink="@color/white"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/exp"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/aref_ruqaa"
+            android:includeFontPadding="false"
+            android:text="تفاسير القران الكريم  "
+            android:textColor="@color/white"
+            android:textColorLink="@color/white"
+            android:textSize="24dp" />
+
+    </LinearLayout>
+</LinearLayout>
