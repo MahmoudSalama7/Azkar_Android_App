@@ -17,6 +17,5 @@ Download and install the app from the Google Play Store.
 Sign up for an account or log in with an existing one.
 Use the app's features as desired.
 Credits
-[Your Name] - Developer
-License
-This project is licensed under the [Insert License Name] License - see the LICENSE file for details.
+Mahmoud Salama - Developer
+
