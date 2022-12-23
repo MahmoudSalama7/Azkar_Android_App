@@ -1,4 +1,4 @@
-Azkar
+#Azkar
 Azkar is a mobile application that provides a variety of useful features for Muslims, including azkar (remembrance of God), tasbeeh (prayer beads), prayer times, and explanations of Quranic verses. The app is built using Java and utilizes an SQLite database for user sign-in and registration.
 
 Features
